@@ -1,4 +1,4 @@
-# 🔷 End-to-End Data Engineering Project with Databricks & Azure
+# 🔷 End-to-End Data Engineering Project with Azure Databricks
 
 This project showcases a complete end-to-end **data engineering pipeline** using **Azure Databricks**, **Delta Live Tables**, and **PySpark**. It covers the journey of raw data through secure storage, transformation, modeling, and warehousing.
 
@@ -6,8 +6,8 @@ This project showcases a complete end-to-end **data engineering pipeline** using
 
 ## 🏗️ Project Architecture
 
-![Architecture Diagram](<img width="1536" height="1024" alt="ETE_Project_Databricks" src="https://github.com/user-attachments/assets/e29ec75a-fbbc-4aeb-89fd-8055e8d47b2d" />
-)
+<img width="973" height="683" alt="ete_datbricks" src="https://github.com/user-attachments/assets/0db64d8e-c2dd-4b7c-9700-06b61f47eca8" />
+
 ---
 
 ## 🚀 Key Components
