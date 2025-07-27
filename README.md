@@ -1,31 +1,74 @@
-🔷 End-to-End Data Engineering Project with Azure Databricks:
-This project demonstrates a complete end-to-end data engineering pipeline using Azure, Databricks, Delta Live Tables, and PySpark. It simulates how raw data flows through various stages of transformation, storage, and modeling before becoming analytics-ready.
+# 🔷 End-to-End Data Engineering Project with Databricks & Azure
 
-🏗️ Project Architecture:
-A[Azure] --> B[Databricks]
-B --> C[ETL - PySpark]
-C --> D[Delta Lake Gen2]
-D --> E[Delta Live Tables]
-E --> F[Star Schema]
-F --> G[Warehouse]
+This project showcases a complete end-to-end **data engineering pipeline** using **Azure Databricks**, **Delta Live Tables**, and **PySpark**. It covers the journey of raw data through secure storage, transformation, modeling, and warehousing.
 
-🚀 Key Components:
-🔗 Version Control
-Integrated with GitHub for CI/CD and collaborative development.
-🔐 Security
-Managed with Azure Active Directory and Key Vault for access control and secrets management.
-🛠️ ETL Process
-Data extracted and transformed using PySpark notebooks in Databricks.
-💾 Storage
-Raw and processed data stored in Azure Data Lake Gen2.
-⚡ Delta Live Tables
-Used for building streaming and batch pipelines
-⭐ Data Modeling
-Created a Star Schema for efficient querying and reporting.
+---
 
+## 🏗️ Project Architecture
 
-📊 Outcome
-✅ Hands-on experience with an industry-grade data engineering pipeline.
-✅ Learned to manage data security, version control, and scalable ETL flows.
-✅ Gained insights into real-time vs batch data processing using Delta Live Tables.
+![Architecture Diagram](<img width="1536" height="1024" alt="ETE_Project_Databricks" src="https://github.com/user-attachments/assets/e29ec75a-fbbc-4aeb-89fd-8055e8d47b2d" />
+)
+---
+
+## 🚀 Key Components
+
+### 🔗 Version Control  
+- Integrated **GitHub** repository for managing all code and notebooks.
+
+### 🔐 Security  
+- Implemented using **Azure Key Vault** and **Azure Active Directory** to securely handle secrets and access controls.
+
+### 🛠️ ETL Process  
+- ETL logic is written in **PySpark**, run within Databricks notebooks for raw-to-clean transformation.
+
+### 💾 Storage  
+- Used **Azure Data Lake Gen2** to store raw, staged, and processed data layers.
+
+### ⚡ Delta Live Tables  
+- Set up **Delta Live Tables** for scalable, reliable, and declarative batch & streaming transformations.
+
+### ⭐ Data Modeling  
+- Transformed data into a **Star Schema** model for easy analytical consumption and performance.
+
+---
+
+## 🧰 Tools & Technologies Used
+
+| Tool / Service         | Purpose                                 |
+|------------------------|------------------------------------------|
+| Databricks             | Orchestration, notebooks, and pipeline   |
+| PySpark                | ETL and data transformation              |
+| Azure Data Lake Gen2   | Cloud storage for raw and processed data |
+| Delta Live Tables      | Data pipeline and transformation engine  |
+| GitHub                 | Version control                          |
+| Azure Key Vault / AAD  | Security and credentials management      |
+
+---
+
+## ✅ Outcomes
+
+- 💡 Learned end-to-end data flow using Databricks and Azure  
+- 🔒 Applied enterprise-level data security via Key Vault and AAD  
+- ⚡ Built a reusable ETL framework with PySpark and Delta  
+- 📊 Designed a star schema for analytical performance  
+
+---
+
+## 📎 GitHub Link
+
+🔗 [https://github.com/shubhamsingh9554/databricks_ete](https://github.com/shubhamsingh9554/databricks_ete)
+
+---
+
+## 📬 Contact
+
+For collaboration or questions, feel free to connect with me on  
+🔗 [LinkedIn – Shubham Singh](https://www.linkedin.com/in/shubham-singh-59a95b230/)
+
+---
+
+## 🏷️ Tags
+
+`#DataEngineering` `#Databricks` `#Azure` `#PySpark` `#DeltaLiveTables` `#ETL` `#AzureDataLake` `#GitHub` `#EndToEndProject`
+
 
