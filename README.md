@@ -54,12 +54,6 @@ This project showcases a complete end-to-end **data engineering pipeline** using
 
 ---
 
-## 📎 GitHub Link
-
-🔗 [https://github.com/shubhamsingh9554/databricks_ete](https://github.com/shubhamsingh9554/databricks_ete)
-
----
-
 ## 📬 Contact
 
 For collaboration or questions, feel free to connect with me on  
